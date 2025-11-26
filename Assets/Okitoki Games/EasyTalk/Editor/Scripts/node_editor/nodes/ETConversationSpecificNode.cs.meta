@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9f3455349801bf0439f2f4f26a127b7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Editor/Scripts/node_editor/nodes/ETConversationSpecificNode.cs
+  uploadId: 799800

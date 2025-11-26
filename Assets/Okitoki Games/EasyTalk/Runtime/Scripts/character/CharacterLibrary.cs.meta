@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1a65e389494b61945ac4c6aa024f9ced
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Runtime/Scripts/character/CharacterLibrary.cs
+  uploadId: 799800

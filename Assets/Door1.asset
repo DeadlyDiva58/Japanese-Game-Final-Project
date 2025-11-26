@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2388526598114583127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5800231a05eaae43b00503881229245, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: games.okitoki.EasyTalk::EasyTalk.Localization.TranslationLibrary
+  originalLanguage: en
+  translationSets:
+  - counter: 5
+    languageCode: en
+    translations:
+    - id: 0
+      language: en
+      text: "\u53CB\u9054\u306B\u805E\u304F"
+    - id: 1
+      language: en
+      text: "\u4ED6\u306E\u5B66\u751F\u306B\u805E\u304F"
+    - id: 2
+      language: en
+      text: "\u5148\u751F\u306E\u7814\u7A76\u5BA4\u3092\u63A2\u3059\r\n"
+    - id: 3
+      language: en
+      text: Player
+    - id: 4
+      language: en
+      text: "\u3069\u3046\u3057\u3088\u3046\u2026\u3002\u3069\u3053\u306B\u3042\u308B\u3093\u3060\u308D\u3046\u3002"
+  - counter: 5
+    languageCode: ja
+    translations:
+    - id: 0
+      language: ja
+      text: 
+    - id: 1
+      language: ja
+      text: 
+    - id: 2
+      language: ja
+      text: 
+    - id: 3
+      language: ja
+      text: 
+    - id: 4
+      language: ja
+      text: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65aaff45f3a1d794180acfe1b86e7406, type: 3}
+  m_Name: Door1
+  m_EditorClassIdentifier: games.okitoki.EasyTalk::EasyTalk.Nodes.Dialogue
+  version: 1.7.6
+  nodes:
+  - rid: 9108288510802002036
+  - rid: 9108288510802002037
+  - rid: 9108288510802002038
+  - rid: 9108288510802002039
+  translationLibrary: {fileID: -2388526598114583127}
+  maxID: 85
+  references:
+    version: 2
+    RefIds:
+    - rid: 9108288510802002036
+      type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        nodeId: 2
+        name: ENTRY
+        nodeType: 1
+        inputs: []
+        outputs:
+        - id: 3
+          attachedIds: 18000000
+          ownerId: 2
+          connectionType: 1
+        width: 110
+        height: 75
+        xPosition: 212.2044
+        yPosition: 198.02252
+        entryPointName: Door1
+    - rid: 9108288510802002037
+      type: {class: OptionNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        nodeId: 4
+        name: OPTION
+        nodeType: 4
+        inputs:
+        - id: 5
+          attachedIds: 19000000
+          ownerId: 4
+          connectionType: 1
+        - id: 6
+          attachedIds: 
+          ownerId: 4
+          connectionType: 7
+        - id: 8
+          attachedIds: 
+          ownerId: 4
+          connectionType: 7
+        - id: 21
+          attachedIds: 
+          ownerId: 4
+          connectionType: 7
+        outputs:
+        - id: 7
+          attachedIds: 1b000000
+          ownerId: 4
+          connectionType: 1
+        - id: 9
+          attachedIds: 1b000000
+          ownerId: 4
+          connectionType: 1
+        - id: 22
+          attachedIds: 1b000000
+          ownerId: 4
+          connectionType: 1
+        width: 228
+        height: 174
+        xPosition: 468.40442
+        yPosition: 298.1892
+        items:
+        - rid: 9108288510802002040
+        - rid: 9108288510802002041
+        - rid: 9108288510802002042
+    - rid: 9108288510802002038
+      type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        nodeId: 23
+        name: CONVERSATION
+        nodeType: 3
+        inputs:
+        - id: 24
+          attachedIds: 03000000
+          ownerId: 23
+          connectionType: 1
+        outputs:
+        - id: 25
+          attachedIds: 05000000
+          ownerId: 23
+          connectionType: 1
+        width: 268
+        height: 140
+        xPosition: 160.93774
+        yPosition: 308.45587
+        items:
+        - rid: 9108288510802002043
+        characterName: Player
+        icon: 
+    - rid: 9108288510802002039
+      type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        nodeId: 26
+        name: EXIT
+        nodeType: 2
+        inputs:
+        - id: 27
+          attachedIds: 070000000900000016000000
+          ownerId: 26
+          connectionType: 1
+        outputs: []
+        width: 110
+        height: 75
+        xPosition: 774.3875
+        yPosition: 371.57022
+        exitPointName: 
+    - rid: 9108288510802002040
+      type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        text: "\u53CB\u9054\u306B\u805E\u304F"
+    - rid: 9108288510802002041
+      type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        text: "\u4ED6\u306E\u5B66\u751F\u306B\u805E\u304F"
+    - rid: 9108288510802002042
+      type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        text: "\u5148\u751F\u306E\u7814\u7A76\u5BA4\u3092\u63A2\u3059\r\n"
+    - rid: 9108288510802002043
+      type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        text: "\u3069\u3046\u3057\u3088\u3046\u2026\u3002\u3069\u3053\u306B\u3042\u308B\u3093\u3060\u308D\u3046\u3002"
+        audioClip: {fileID: 0}
+        audioClipFile: 
+        audioAssetID: 0

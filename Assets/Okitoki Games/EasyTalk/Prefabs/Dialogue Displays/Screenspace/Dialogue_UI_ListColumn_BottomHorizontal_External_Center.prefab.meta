@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 43140b25cfdb9b644b23e3b82609a905
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Prefabs/Dialogue Displays/Screenspace/Dialogue_UI_ListColumn_BottomHorizontal_External_Center.prefab
+  uploadId: 799800

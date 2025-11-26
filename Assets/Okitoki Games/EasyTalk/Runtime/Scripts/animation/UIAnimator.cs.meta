@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3c7c2cf9654617e448a49085745d74f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Runtime/Scripts/animation/UIAnimator.cs
+  uploadId: 799800

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abe98afd9dafe694b8b54979417e473b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Demo/demo1/UI/SpeechBubble.prefab
+  uploadId: 799800

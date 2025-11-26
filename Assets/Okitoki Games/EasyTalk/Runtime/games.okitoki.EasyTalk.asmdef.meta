@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6baf06c1da62f7c40a8cffd2762a7db0
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Runtime/games.okitoki.EasyTalk.asmdef
+  uploadId: 799800

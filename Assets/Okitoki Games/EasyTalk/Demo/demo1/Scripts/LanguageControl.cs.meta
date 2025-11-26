@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 215157b09a5b53541a48e9723a0c48b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Demo/demo1/Scripts/LanguageControl.cs
+  uploadId: 799800

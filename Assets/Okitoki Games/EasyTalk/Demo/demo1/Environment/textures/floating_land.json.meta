@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca045f500c315c444b5869b780567f92
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Demo/demo1/Environment/textures/floating_land.json
+  uploadId: 799800

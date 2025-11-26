@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f56450bb309866a4582ad196e3a41b06
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Runtime/Scripts/display/CharacterDisplay.cs
+  uploadId: 799800

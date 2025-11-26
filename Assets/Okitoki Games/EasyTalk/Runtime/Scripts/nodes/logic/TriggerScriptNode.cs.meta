@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 50d715200c4b1324d92b2315bb286400
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Runtime/Scripts/nodes/logic/TriggerScriptNode.cs
+  uploadId: 799800

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d644dd3a38248b42897b4bf0b022fcf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279077
+  packageName: EasyTalk Dialogue System
+  packageVersion: 1.7.6
+  assetPath: Assets/Okitoki Games/EasyTalk/Prefabs/Dialogue Displays/Screenspace/Dialogue_UI_Scroll_LeftVertical_Internal_Bottom.prefab
+  uploadId: 799800
