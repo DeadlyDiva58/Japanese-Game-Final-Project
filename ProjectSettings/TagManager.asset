@@ -8,6 +8,16 @@ TagManager:
   - terrain
   - Dialogue
   - Door
+  - Teacher
+  - Friend
+  - CafeExit
+  - Librarian
+  - Clock
+  - EvilTeacher
+  - LibraryDoor
+  - RoofTrigger
+  - Bully
+  - Homework
   layers:
   - Default
   - TransparentFX
