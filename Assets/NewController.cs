@@ -26,8 +26,10 @@ public class Controller : MonoBehaviour
     public GameObject camera1;
     public GameObject camera2;
     public GameObject Clock;
-    public GameObject roofCam1, roofCam2,roofTrigger,endCamera,EvilTeacher,Bully;
+    public GameObject roofCam1, roofCam2,roofTrigger,endCamera,EvilTeacher,Bully, library1, library2,ending1,ending2;
+    private bool roofOver;
     private GameObject currentCamera;
+    private string roofOption;
     
     
 
@@ -41,6 +43,7 @@ public class Controller : MonoBehaviour
         teacherCurrent = "Teacher1";
         isTalking = false;
         objectiveText.text = "先生と話す";
+        roofOver = false;
 
     }
 
@@ -125,6 +128,7 @@ public class Controller : MonoBehaviour
             other.GetComponent<TeacherChaseScript>().ChaseOff();
             GameOver();
             dialogueController.PlayDialogue("Game Over");
+
             Debug.Log("GameOverScreen Time");
         }
         else if (other.CompareTag("Bully"))
@@ -135,6 +139,7 @@ public class Controller : MonoBehaviour
             other.GetComponent<BullyScript>().ChaseOff();
             GameOver();
             dialogueController.PlayDialogue("Game Over");
+
             Debug.Log("GameOverScreen Time");
         }
         else if (other.CompareTag("LibraryDoor"))
@@ -151,6 +156,7 @@ public class Controller : MonoBehaviour
             isTalking = true;
             dialogueController.PlayDialogue("Roof");
             roofTrigger.SetActive(false);
+            
         }
         else if (other.CompareTag("Homework"))
         {
@@ -162,8 +168,45 @@ public class Controller : MonoBehaviour
             dialogueController.PlayDialogue("Homework");
             roofTrigger.SetActive(false);
         }
+        else if (other.CompareTag("RoofDoor")&&roofOver)
+        {
+            if(roofOption == "secret")
+            {
+                library1.SetActive(false);
+                library2.SetActive(true);
+                TeleportTo("Library","something");
+            }
+            else
+            {
+                TeleportTo("Teacher3", "something");
+            }
+            
+        }
+        else if (other.CompareTag("SecretDoor"))
+        {
+            ending1.SetActive(false);
+            ending2.SetActive(true);
+            isTalking = true;
+            WinCamera();
+            dialogueController.PlayDialogue("SecretEnd");
+
+        }
 
 
+
+    }
+
+    public void leaveRoof(bool secret)
+    {
+        roofOver = true;
+        if (secret)
+        {
+            roofOption = "secret";
+        }
+        else
+        {
+            roofOption = "teacher3";
+        }
     }
     public void StopChase()
     {
@@ -214,11 +257,12 @@ public class Controller : MonoBehaviour
     {
         UpdateBool(pendingMessage);
     }
-    private void GameOver()
+    public void GameOver()
     {
 
         camera1.SetActive(false);
         camera2.SetActive(true);
+        
     }
     public void Reset()
     {

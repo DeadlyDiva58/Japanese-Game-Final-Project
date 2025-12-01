@@ -6,6 +6,8 @@ public class BullyScript : MonoBehaviour
     public float speed = 1f; // Adjust the speed of movement
     private bool isChassing;
     public GameObject homework;
+    private Animator anim;
+
 
     void Update()
     {
@@ -13,6 +15,7 @@ public class BullyScript : MonoBehaviour
         if (isChassing)
         {
             Debug.Log("isChasing");
+            
 
             // Get target position but keep bully's Y position (height)
             Vector3 targetPosition = new Vector3(targetObject.position.x, transform.position.y, targetObject.position.z);
@@ -36,10 +39,15 @@ public class BullyScript : MonoBehaviour
     void Start()
     {
         isChassing = false;
-    }
+        anim = GetComponent<Animator>();
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    
+}
     public void Chase()
     {
         Debug.Log("isChasing is on");
+        anim.SetBool("Chase", true);
 
         isChassing = true;
     }

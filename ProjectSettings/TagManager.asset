@@ -18,6 +18,8 @@ TagManager:
   - RoofTrigger
   - Bully
   - Homework
+  - RoofDoor
+  - SecretDoor
   layers:
   - Default
   - TransparentFX
