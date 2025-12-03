@@ -27,11 +27,17 @@ public class Controller : MonoBehaviour
     public GameObject camera2;
     public GameObject Clock;
     public GameObject roofCam1, roofCam2,roofTrigger,endCamera,EvilTeacher,Bully, library1, library2,ending1,ending2;
-    private bool roofOver;
+    private bool roofOver, teacher1, friend, librarian, librarydoor, clock = false;
     private GameObject currentCamera;
     private string roofOption;
-    
-    
+    public AudioSource footstepAudioSource;
+    public AudioClip footstepSound;
+    public AudioSource musicAudioSource;
+    public AudioClip backgroundMusic;
+    public float footstepDelay = 0.5f; // Time between footstep sounds
+    private float footstepTimer;
+
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -44,6 +50,15 @@ public class Controller : MonoBehaviour
         isTalking = false;
         objectiveText.text = "先生と話す";
         roofOver = false;
+        if (musicAudioSource != null && backgroundMusic != null)
+        {
+            musicAudioSource.clip = backgroundMusic;
+            musicAudioSource.loop = true;
+            musicAudioSource.Play();
+        }
+
+        footstepTimer = 0f;
+
 
     }
 
@@ -68,13 +83,20 @@ public class Controller : MonoBehaviour
         // Optional: Check for a specific tag or layer if you only want certain objects to interact
         if (other.CompareTag("Door"))
         {
-            objectiveUI.SetActive(false);
-            // rb.constraints = RigidbodyConstraints.FreezeAll;
-            rb.isKinematic = true;
-            isTalking = true;
-           // rb.constraints = RigidbodyConstraints.None;
-            dialogueController.PlayDialogue("Door1");
-            Debug.Log("Hit the exit");
+            if (teacher1) {
+                objectiveUI.SetActive(false);
+                // rb.constraints = RigidbodyConstraints.FreezeAll;
+                rb.isKinematic = true;
+                isTalking = true;
+                // rb.constraints = RigidbodyConstraints.None;
+                dialogueController.PlayDialogue("Door1");
+                Debug.Log("Hit the exit");
+            }
+            else
+            {
+                dialogueController.PlayDialogue("Not Yet");
+            }
+
         }
         else if (other.CompareTag("Teacher"))
         {
@@ -84,6 +106,8 @@ public class Controller : MonoBehaviour
             isTalking = true;
            // rb.constraints = RigidbodyConstraints.None;
             dialogueController.PlayDialogue(teacherCurrent);
+            teacher1 = true;
+            
             Debug.Log("teacher is talking");
         }
         else if (other.CompareTag("Friend"))
@@ -93,15 +117,20 @@ public class Controller : MonoBehaviour
             isTalking = true;
             dialogueController.PlayDialogue("Friend");
             Debug.Log("friend is talking");
+            friend = true;
 
         }
         else if (other.CompareTag("CafeExit"))
         {
-            Debug.Log("hit the cafe exit");
-            objectiveUI.SetActive(false);
-            isTalking = true;
-            dialogueController.PlayDialogue("CafeExit");
-            Debug.Log("Choosing where to go");
+            if (friend)
+            {
+                Debug.Log("hit the cafe exit");
+                objectiveUI.SetActive(false);
+                isTalking = true;
+                dialogueController.PlayDialogue("CafeExit");
+                Debug.Log("Choosing where to go");
+            }
+           
         }
         else if (other.CompareTag("Librarian"))
         {
@@ -111,14 +140,21 @@ public class Controller : MonoBehaviour
             dialogueController.PlayDialogue("Librarian");
             Debug.Log("Find Clock");
             Clock.SetActive(true);
+            clock = true;
         }
         else if (other.CompareTag("Clock"))
         {
-            Debug.Log("Interacting with Clock");
-            objectiveUI.SetActive(false);
-            isTalking = true;
-            dialogueController.PlayDialogue("Clock");
-            Debug.Log("Found Clock");
+            if (clock) {
+                Debug.Log("Interacting with Clock");
+                objectiveUI.SetActive(false);
+                isTalking = true;
+                dialogueController.PlayDialogue("Clock");
+                Debug.Log("Found Clock");
+                clock = true;
+                librarydoor = true;
+            }
+          
+
         }
         else if (other.CompareTag("EvilTeacher"))
         {
@@ -144,10 +180,17 @@ public class Controller : MonoBehaviour
         }
         else if (other.CompareTag("LibraryDoor"))
         {
-            StopChase();
-            Debug.Log("leaving libary");
-            TeleportTo("Roof","SOmething");
-            Debug.Log("Leaving Library");
+            if (librarydoor) {
+                StopChase();
+                Debug.Log("leaving libary");
+                TeleportTo("Roof", "SOmething");
+                Debug.Log("Leaving Library");
+            }
+            else
+            {
+                dialogueController.PlayDialogue("Not Yet");
+            }
+            
         }
         else if (other.CompareTag("RoofTrigger"))
         {
@@ -156,14 +199,18 @@ public class Controller : MonoBehaviour
             isTalking = true;
             dialogueController.PlayDialogue("Roof");
             roofTrigger.SetActive(false);
+            librarydoor = false;
+            clock = false;
             
         }
         else if (other.CompareTag("Homework"))
         {
+            Bully.SetActive(false);
             StopChase();
             Debug.Log("You Win");
             objectiveUI.SetActive(false);
             isTalking = true;
+            
             WinCamera();
             dialogueController.PlayDialogue("Homework");
             roofTrigger.SetActive(false);
@@ -210,6 +257,7 @@ public class Controller : MonoBehaviour
     }
     public void StopChase()
     {
+        EvilTeacher.GetComponent<TeacherChaseScript>().ChaseOff();
         EvilTeacher.SetActive(false);
         Bully.GetComponent<BullyScript>().ChaseOff();
     }
@@ -264,7 +312,7 @@ public class Controller : MonoBehaviour
         camera2.SetActive(true);
         
     }
-    public void Reset()
+    public void ResetGame()
     {
         Debug.Log("Reset was hit");
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
@@ -306,7 +354,7 @@ public class Controller : MonoBehaviour
         currentCamera = endCamera;
     }
 
-    private void FixedUpdate()
+    /*private void FixedUpdate()
 
     {
         if(!isTalking)
@@ -328,6 +376,42 @@ public class Controller : MonoBehaviour
         
             
         
+    }*/
+    private void FixedUpdate()
+    {
+        if (!isTalking)
+        {
+            float moveInput = Input.GetAxis("Vertical");
+            float rotateInput = Input.GetAxis("Horizontal");
+
+            // Rotation
+            float rotation = rotateInput * rotationSpeed * Time.fixedDeltaTime;
+            Quaternion deltaRotation = Quaternion.Euler(0f, rotation, 0f);
+            rb.MoveRotation(rb.rotation * deltaRotation);
+
+            // Movement using velocity (respects collisions)
+            Vector3 movement = transform.forward * moveInput * speed;
+            rb.linearVelocity = new Vector3(movement.x, rb.linearVelocity.y, movement.z);
+
+            // FOOTSTEP SOUNDS - ADD THIS:
+            if (moveInput != 0) // Player is moving forward or backward
+            {
+                footstepTimer -= Time.fixedDeltaTime;
+
+                if (footstepTimer <= 0f)
+                {
+                    if (footstepAudioSource != null && footstepSound != null)
+                    {
+                        footstepAudioSource.PlayOneShot(footstepSound);
+                        footstepTimer = footstepDelay; // Reset timer
+                    }
+                }
+            }
+            else
+            {
+                footstepTimer = 0f; // Reset when not moving
+            }
+        }
     }
 
 }

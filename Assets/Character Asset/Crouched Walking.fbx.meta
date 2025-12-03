@@ -3,7 +3,47 @@ guid: f170f537542c46047a9134c1d2b9fca1
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Female_1
+    second: {fileID: 2100000, guid: 7aa6397a4a4b1c9499fdbb453bcb21e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Female_2
+    second: {fileID: 2100000, guid: b3729038815277c41ba09a2844be5655, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Female_3
+    second: {fileID: 2100000, guid: 80931404437fac14698c786a5770d4a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Female_4
+    second: {fileID: 2100000, guid: 5b10df3880a9e0841b683e49083f9975, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Man_1
+    second: {fileID: 2100000, guid: 7fbb0669448b7d54392fefd71944492f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Man_2
+    second: {fileID: 2100000, guid: ef708e12974b580439764b25cc890217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Man_3
+    second: {fileID: 2100000, guid: 1547815df6dbed54eafc1c384005c90a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nurse
+    second: {fileID: 2100000, guid: a2a76281f694751498073de6f07e2f3a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

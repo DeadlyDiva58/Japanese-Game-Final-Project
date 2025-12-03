@@ -14,101 +14,104 @@ MonoBehaviour:
   m_EditorClassIdentifier: games.okitoki.EasyTalk::EasyTalk.Nodes.Dialogue
   version: 1.7.6
   nodes:
-  - rid: 2002241499796602964
-  - rid: 2002241499796602965
-  - rid: 2002241499796602966
-  - rid: 2002241499796602967
-  - rid: 2002241499796602968
-  - rid: 2002241499796602969
-  - rid: 2002241499796602970
-  - rid: 2002241499796602971
-  - rid: 2002241499796602972
-  - rid: 2002241499796602973
-  - rid: 2002241499796602974
-  - rid: 2002241499796602975
-  - rid: 2002241499796602976
-  - rid: 2002241499796602977
-  - rid: 2002241499796602978
-  - rid: 2002241499796602979
-  - rid: 2002241499796602980
-  - rid: 2002241499796602981
-  - rid: 2002241499796602982
-  - rid: 2002241499796602983
-  - rid: 2002241499796602984
-  - rid: 2002241499796602985
-  - rid: 2002241499796602986
-  - rid: 2002241499796602987
-  - rid: 2002241499796602988
-  - rid: 2002241499796602989
-  - rid: 2002241499796602990
-  - rid: 2002241499796602991
-  - rid: 2002241499796602992
-  - rid: 2002241499796602993
-  - rid: 2002241499796602994
-  - rid: 2002241499796602995
-  - rid: 2002241499796602996
-  - rid: 2002241499796602997
-  - rid: 2002241499796602998
-  - rid: 2002241499796602999
-  - rid: 2002241499796603000
-  - rid: 2002241499796603001
-  - rid: 2002241499796603002
-  - rid: 2002241499796603003
-  - rid: 2002241499796603004
-  - rid: 2002241499796603005
-  - rid: 2002241499796603006
-  - rid: 2002241499796603007
-  - rid: 2002241499796603008
-  - rid: 2002241499796603009
-  - rid: 2002241499796603010
-  - rid: 2002241499796603011
-  - rid: 2002241499796603012
-  - rid: 2002241499796603013
-  - rid: 2002241499796603014
-  - rid: 2002241499796603015
-  - rid: 2002241499796603016
-  - rid: 2002241499796603017
-  - rid: 2002241499796603018
-  - rid: 2002241499796603019
-  - rid: 2002241499796603020
-  - rid: 2002241499796603021
-  - rid: 2002241499796603022
-  - rid: 2002241499796603023
-  - rid: 2002241499796603024
-  - rid: 2002241499796603025
-  - rid: 2002241499796603026
-  - rid: 2002241499796603027
-  - rid: 2002241499796603028
-  - rid: 2002241499796603029
-  - rid: 2002241499796603030
-  - rid: 2002241499796603031
-  - rid: 2002241499796603032
-  - rid: 2002241499796603033
-  - rid: 2002241499796603034
-  - rid: 2002241499796603035
-  - rid: 2002241499796603036
-  - rid: 2002241499796603037
-  - rid: 2002241499796603038
-  - rid: 2002241499796603039
-  - rid: 2002241499796603040
-  - rid: 2002241499796603041
-  - rid: 2002241499796603042
-  - rid: 2002241499796603043
-  - rid: 2002241499796603044
-  - rid: 2002241499796603045
-  - rid: 2002241499796603046
-  - rid: 2002241499796603047
-  - rid: 2002241499796603048
-  - rid: 2002241499796603049
-  - rid: 2002241499796603050
-  - rid: 2002241499796603051
-  - rid: 2002241499796603052
-  translationLibrary: {fileID: 132487082592909513}
-  maxID: 282840
+  - rid: 2002241533054026458
+  - rid: 2002241533054026459
+  - rid: 2002241533054026460
+  - rid: 2002241533054026461
+  - rid: 2002241533054026462
+  - rid: 2002241533054026463
+  - rid: 2002241533054026464
+  - rid: 2002241533054026465
+  - rid: 2002241533054026466
+  - rid: 2002241533054026467
+  - rid: 2002241533054026468
+  - rid: 2002241533054026469
+  - rid: 2002241533054026470
+  - rid: 2002241533054026471
+  - rid: 2002241533054026472
+  - rid: 2002241533054026473
+  - rid: 2002241533054026474
+  - rid: 2002241533054026475
+  - rid: 2002241533054026476
+  - rid: 2002241533054026477
+  - rid: 2002241533054026478
+  - rid: 2002241533054026479
+  - rid: 2002241533054026480
+  - rid: 2002241533054026481
+  - rid: 2002241533054026482
+  - rid: 2002241533054026483
+  - rid: 2002241533054026484
+  - rid: 2002241533054026485
+  - rid: 2002241533054026486
+  - rid: 2002241533054026487
+  - rid: 2002241533054026488
+  - rid: 2002241533054026489
+  - rid: 2002241533054026490
+  - rid: 2002241533054026491
+  - rid: 2002241533054026492
+  - rid: 2002241533054026493
+  - rid: 2002241533054026494
+  - rid: 2002241533054026495
+  - rid: 2002241533054026496
+  - rid: 2002241533054026497
+  - rid: 2002241533054026498
+  - rid: 2002241533054026499
+  - rid: 2002241533054026500
+  - rid: 2002241533054026501
+  - rid: 2002241533054026502
+  - rid: 2002241533054026503
+  - rid: 2002241533054026504
+  - rid: 2002241533054026505
+  - rid: 2002241533054026506
+  - rid: 2002241533054026507
+  - rid: 2002241533054026508
+  - rid: 2002241533054026509
+  - rid: 2002241533054026510
+  - rid: 2002241533054026511
+  - rid: 2002241533054026512
+  - rid: 2002241533054026513
+  - rid: 2002241533054026514
+  - rid: 2002241533054026515
+  - rid: 2002241533054026516
+  - rid: 2002241533054026517
+  - rid: 2002241533054026518
+  - rid: 2002241533054026519
+  - rid: 2002241533054026520
+  - rid: 2002241533054026521
+  - rid: 2002241533054026522
+  - rid: 2002241533054026523
+  - rid: 2002241533054026524
+  - rid: 2002241533054026525
+  - rid: 2002241533054026526
+  - rid: 2002241533054026527
+  - rid: 2002241533054026528
+  - rid: 2002241533054026529
+  - rid: 2002241533054026530
+  - rid: 2002241533054026531
+  - rid: 2002241533054026532
+  - rid: 2002241533054026533
+  - rid: 2002241533054026534
+  - rid: 2002241533054026535
+  - rid: 2002241533054026536
+  - rid: 2002241533054026537
+  - rid: 2002241533054026538
+  - rid: 2002241533054026539
+  - rid: 2002241533054026540
+  - rid: 2002241533054026541
+  - rid: 2002241533054026542
+  - rid: 2002241533054026543
+  - rid: 2002241533054026544
+  - rid: 2002241533054026545
+  - rid: 2002241533054026546
+  - rid: 2002241533054026547
+  - rid: 2002241533054026548
+  - rid: 2002241533054026549
+  translationLibrary: {fileID: 5556406238757843213}
+  maxID: 302986
   references:
     version: 2
     RefIds:
-    - rid: 2002241499796602964
+    - rid: 2002241533054026458
       type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 4
@@ -125,7 +128,7 @@ MonoBehaviour:
         xPosition: 143.93777
         yPosition: 127.62254
         entryPointName: Teacher1
-    - rid: 2002241499796602965
+    - rid: 2002241533054026459
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 9
@@ -146,10 +149,10 @@ MonoBehaviour:
         xPosition: 263.8711
         yPosition: 219.38919
         items:
-        - rid: 2002241499796603053
+        - rid: 2002241533054026550
         characterName: "\u5148\u751F"
         icon: 
-    - rid: 2002241499796602966
+    - rid: 2002241533054026460
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 57
@@ -170,10 +173,10 @@ MonoBehaviour:
         xPosition: 571.1858
         yPosition: 275.68628
         items:
-        - rid: 2002241499796603054
+        - rid: 2002241533054026551
         characterName: Player
         icon: 
-    - rid: 2002241499796602967
+    - rid: 2002241533054026461
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 65
@@ -194,10 +197,10 @@ MonoBehaviour:
         xPosition: 505.72757
         yPosition: 488.22787
         items:
-        - rid: 2002241499796603055
+        - rid: 2002241533054026552
         characterName: "\u5148\u751F"
         icon: 
-    - rid: 2002241499796602968
+    - rid: 2002241533054026462
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 73
@@ -218,10 +221,10 @@ MonoBehaviour:
         xPosition: 840.8524
         yPosition: 469.47794
         items:
-        - rid: 2002241499796603056
+        - rid: 2002241533054026553
         characterName: Player
         icon: 
-    - rid: 2002241499796602969
+    - rid: 2002241533054026463
       type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 81
@@ -238,7 +241,7 @@ MonoBehaviour:
         xPosition: 1641.4877
         yPosition: 136.90506
         exitPointName: 
-    - rid: 2002241499796602970
+    - rid: 2002241533054026464
       type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 390
@@ -255,7 +258,7 @@ MonoBehaviour:
         xPosition: 233.6723
         yPosition: -89.55945
         entryPointName: Door1
-    - rid: 2002241499796602971
+    - rid: 2002241533054026465
       type: {class: OptionNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 392
@@ -263,7 +266,7 @@ MonoBehaviour:
         nodeType: 4
         inputs:
         - id: 393
-          attachedIds: 92010000
+          attachedIds: 
           ownerId: 392
           connectionType: 1
         - id: 394
@@ -293,13 +296,13 @@ MonoBehaviour:
           connectionType: 1
         width: 228
         height: 174
-        xPosition: 705.52985
-        yPosition: -255.91292
+        xPosition: 872.6556
+        yPosition: -132.76755
         items:
-        - rid: 2002241499796603057
-        - rid: 2002241499796603058
-        - rid: 2002241499796603059
-    - rid: 2002241499796602972
+        - rid: 2002241533054026554
+        - rid: 2002241533054026555
+        - rid: 2002241533054026556
+    - rid: 2002241533054026466
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 400
@@ -312,7 +315,7 @@ MonoBehaviour:
           connectionType: 1
         outputs:
         - id: 402
-          attachedIds: 89010000
+          attachedIds: d7190000
           ownerId: 400
           connectionType: 1
         width: 268
@@ -320,10 +323,10 @@ MonoBehaviour:
         xPosition: 459.0984
         yPosition: -27.954285
         items:
-        - rid: 2002241499796603060
+        - rid: 2002241533054026557
         characterName: Player
         icon: 
-    - rid: 2002241499796602973
+    - rid: 2002241533054026467
       type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 403
@@ -340,7 +343,7 @@ MonoBehaviour:
         xPosition: 1868.8417
         yPosition: -187.5099
         exitPointName: 
-    - rid: 2002241499796602974
+    - rid: 2002241533054026468
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 1130
@@ -389,7 +392,7 @@ MonoBehaviour:
         - "\u6559\u5BA4\u3092\u51FA\u308B"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796602975
+    - rid: 2002241533054026469
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 4837
@@ -438,7 +441,7 @@ MonoBehaviour:
         - "\u6559\u5BA4\u3092\u51FA\u308B"
         triggerType: 0
         objectTagOrName: 
-    - rid: 2002241499796602976
+    - rid: 2002241533054026470
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 6614
@@ -446,7 +449,7 @@ MonoBehaviour:
         nodeType: 8
         inputs:
         - id: 6615
-          attachedIds: 8d010000
+          attachedIds: 8d01000092010000
           ownerId: 6614
           connectionType: 1
         - id: 6616
@@ -489,7 +492,7 @@ MonoBehaviour:
         - "\u53CB\u9054\u306B\u805E\u304F"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796602977
+    - rid: 2002241533054026471
       type: {class: WaitNode, ns: EasyTalk.Nodes.Flow, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 10504
@@ -510,7 +513,7 @@ MonoBehaviour:
         xPosition: 1277.9541
         yPosition: -427.65424
         waitTime: .25
-    - rid: 2002241499796602978
+    - rid: 2002241533054026472
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 10603
@@ -559,7 +562,7 @@ MonoBehaviour:
         - "\u53CB\u9054\u306B\u805E\u304F"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796602979
+    - rid: 2002241533054026473
       type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 15976
@@ -576,7 +579,7 @@ MonoBehaviour:
         xPosition: 153.96901
         yPosition: -817.91016
         entryPointName: Friend
-    - rid: 2002241499796602980
+    - rid: 2002241533054026474
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 15981
@@ -597,10 +600,10 @@ MonoBehaviour:
         xPosition: 391.66028
         yPosition: -878.02344
         items:
-        - rid: 2002241499796603061
+        - rid: 2002241533054026558
         characterName: Player
         icon: 
-    - rid: 2002241499796602981
+    - rid: 2002241533054026475
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 15989
@@ -621,10 +624,10 @@ MonoBehaviour:
         xPosition: 677.49963
         yPosition: -707.9153
         items:
-        - rid: 2002241499796603062
+        - rid: 2002241533054026559
         characterName: Player
         icon: 
-    - rid: 2002241499796602982
+    - rid: 2002241533054026476
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 15992
@@ -642,13 +645,13 @@ MonoBehaviour:
           connectionType: 1
         width: 268
         height: 140
-        xPosition: 351.8997
+        xPosition: 351.1791
         yPosition: -696.7153
         items:
-        - rid: 2002241499796603063
+        - rid: 2002241533054026560
         characterName: "\u30B8\u30E3\u30F3\u3055\u3093"
         icon: 
-    - rid: 2002241499796602983
+    - rid: 2002241533054026477
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 18194
@@ -697,7 +700,7 @@ MonoBehaviour:
         - "\u56F3\u66F8\u9928\u306B\u884C\u304F"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796602984
+    - rid: 2002241533054026478
       type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 19014
@@ -706,7 +709,7 @@ MonoBehaviour:
         inputs: []
         outputs:
         - id: 19015
-          attachedIds: 514a0000
+          attachedIds: 9e4a0000
           ownerId: 19014
           connectionType: 1
         width: 110
@@ -714,7 +717,7 @@ MonoBehaviour:
         xPosition: 1879.2778
         yPosition: -733.42426
         entryPointName: CafeExit
-    - rid: 2002241499796602985
+    - rid: 2002241533054026479
       type: {class: OptionNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 19024
@@ -722,7 +725,7 @@ MonoBehaviour:
         nodeType: 4
         inputs:
         - id: 19025
-          attachedIds: 474a0000
+          attachedIds: 
           ownerId: 19024
           connectionType: 1
         - id: 19026
@@ -747,9 +750,9 @@ MonoBehaviour:
         xPosition: 2113.2192
         yPosition: -681.66724
         items:
-        - rid: 2002241499796603064
-        - rid: 2002241499796603065
-    - rid: 2002241499796602986
+        - rid: 2002241533054026561
+        - rid: 2002241533054026562
+    - rid: 2002241533054026480
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 19101
@@ -757,7 +760,7 @@ MonoBehaviour:
         nodeType: 8
         inputs:
         - id: 19102
-          attachedIds: 534a0000
+          attachedIds: 534a0000474a0000
           ownerId: 19101
           connectionType: 1
         - id: 19103
@@ -800,7 +803,7 @@ MonoBehaviour:
         - "\u53CB\u9054\u306B\u805E\u304F"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796602987
+    - rid: 2002241533054026481
       type: {class: WaitNode, ns: EasyTalk.Nodes.Flow, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 19503
@@ -821,7 +824,7 @@ MonoBehaviour:
         xPosition: 2696.4297
         yPosition: -1045.1033
         waitTime: .25
-    - rid: 2002241499796602988
+    - rid: 2002241533054026482
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 19506
@@ -870,7 +873,7 @@ MonoBehaviour:
         - "\u5BBF\u984C\u3092\u898B\u3064\u3051\u308B"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796602989
+    - rid: 2002241533054026483
       type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 19820
@@ -887,7 +890,7 @@ MonoBehaviour:
         xPosition: 3180.109
         yPosition: -733.1988
         exitPointName: 
-    - rid: 2002241499796602990
+    - rid: 2002241533054026484
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 19917
@@ -938,7 +941,7 @@ MonoBehaviour:
         - "\u53CB\u9054\u306B\u805E\u304F"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796602991
+    - rid: 2002241533054026485
       type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 19925
@@ -955,7 +958,7 @@ MonoBehaviour:
         xPosition: 3086.1804
         yPosition: -299.99786
         exitPointName: 
-    - rid: 2002241499796602992
+    - rid: 2002241533054026486
       type: {class: WaitNode, ns: EasyTalk.Nodes.Flow, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 19927
@@ -976,7 +979,7 @@ MonoBehaviour:
         xPosition: 2618.5012
         yPosition: -586.90234
         waitTime: .25
-    - rid: 2002241499796602993
+    - rid: 2002241533054026487
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 19930
@@ -1025,7 +1028,7 @@ MonoBehaviour:
         - "\u5BBF\u984C\u3092\u898B\u3064\u3051\u308B"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796602994
+    - rid: 2002241533054026488
       type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 35074
@@ -1042,7 +1045,7 @@ MonoBehaviour:
         xPosition: 2410.8179
         yPosition: 39.027824
         entryPointName: Librarian
-    - rid: 2002241499796602995
+    - rid: 2002241533054026489
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 35076
@@ -1063,10 +1066,10 @@ MonoBehaviour:
         xPosition: 2554.3179
         yPosition: 100.2778
         items:
-        - rid: 2002241499796603066
+        - rid: 2002241533054026563
         characterName: Player
         icon: 
-    - rid: 2002241499796602996
+    - rid: 2002241533054026490
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 35084
@@ -1087,10 +1090,10 @@ MonoBehaviour:
         xPosition: 2869.3179
         yPosition: 229.02779
         items:
-        - rid: 2002241499796603067
+        - rid: 2002241533054026564
         characterName: "\u53F8\u66F8"
         icon: 
-    - rid: 2002241499796602997
+    - rid: 2002241533054026491
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 35092
@@ -1111,10 +1114,10 @@ MonoBehaviour:
         xPosition: 3233.0679
         yPosition: 235.2778
         items:
-        - rid: 2002241499796603068
+        - rid: 2002241533054026565
         characterName: Player
         icon: 
-    - rid: 2002241499796602998
+    - rid: 2002241533054026492
       type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 35100
@@ -1131,7 +1134,7 @@ MonoBehaviour:
         xPosition: 3745.8179
         yPosition: 234.02776
         exitPointName: 
-    - rid: 2002241499796602999
+    - rid: 2002241533054026493
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 36693
@@ -1180,7 +1183,7 @@ MonoBehaviour:
         - "\u6642\u8A08\u3092\u898B\u3064\u3051\u308B"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603000
+    - rid: 2002241533054026494
       type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 38627
@@ -1197,7 +1200,7 @@ MonoBehaviour:
         xPosition: 2398.7522
         yPosition: 512.78516
         entryPointName: Clock
-    - rid: 2002241499796603001
+    - rid: 2002241533054026495
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 38629
@@ -1218,10 +1221,10 @@ MonoBehaviour:
         xPosition: 2546.7522
         yPosition: 579.28516
         items:
-        - rid: 2002241499796603069
+        - rid: 2002241533054026566
         characterName: Player
         icon: 
-    - rid: 2002241499796603002
+    - rid: 2002241533054026496
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 38637
@@ -1242,10 +1245,10 @@ MonoBehaviour:
         xPosition: 3108.3618
         yPosition: 808.4151
         items:
-        - rid: 2002241499796603070
+        - rid: 2002241533054026567
         characterName: "\u5148\u751F"
         icon: 
-    - rid: 2002241499796603003
+    - rid: 2002241533054026497
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 38645
@@ -1266,10 +1269,10 @@ MonoBehaviour:
         xPosition: 3343.5073
         yPosition: 597.24316
         items:
-        - rid: 2002241499796603071
+        - rid: 2002241533054026568
         characterName: "\u5148\u751F"
         icon: 
-    - rid: 2002241499796603004
+    - rid: 2002241533054026498
       type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 38703
@@ -1286,7 +1289,7 @@ MonoBehaviour:
         xPosition: 4231.237
         yPosition: 603.58374
         exitPointName: 
-    - rid: 2002241499796603005
+    - rid: 2002241533054026499
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 38705
@@ -1335,7 +1338,7 @@ MonoBehaviour:
         - "\u8D70\u308B!"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603006
+    - rid: 2002241533054026500
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 39689
@@ -1382,7 +1385,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603007
+    - rid: 2002241533054026501
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 48681
@@ -1429,7 +1432,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603008
+    - rid: 2002241533054026502
       type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 70719
@@ -1446,7 +1449,7 @@ MonoBehaviour:
         xPosition: 3066.3413
         yPosition: 1273.7028
         entryPointName: Game Over
-    - rid: 2002241499796603009
+    - rid: 2002241533054026503
       type: {class: OptionNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 70721
@@ -1479,9 +1482,9 @@ MonoBehaviour:
         xPosition: 3237.8528
         yPosition: 1328.8857
         items:
-        - rid: 2002241499796603072
-        - rid: 2002241499796603073
-    - rid: 2002241499796603010
+        - rid: 2002241533054026569
+        - rid: 2002241533054026570
+    - rid: 2002241533054026504
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 70784
@@ -1522,13 +1525,13 @@ MonoBehaviour:
         xPosition: 3671.6763
         yPosition: 1125.7415
         triggeredClassName: Controller
-        triggeredMethodName: Reset
-        methodSignature: Reset()
+        triggeredMethodName: ResetGame
+        methodSignature: ResetGame()
         parameterTypes: []
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603011
+    - rid: 2002241533054026505
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 71176
@@ -1577,7 +1580,7 @@ MonoBehaviour:
         - "\u5148\u751F\u3068\u8A71\u3059"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603012
+    - rid: 2002241533054026506
       type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 71462
@@ -1594,7 +1597,7 @@ MonoBehaviour:
         xPosition: 4373.325
         yPosition: 1300.612
         exitPointName: 
-    - rid: 2002241499796603013
+    - rid: 2002241533054026507
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 73445
@@ -1641,7 +1644,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603014
+    - rid: 2002241533054026508
       type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 86996
@@ -1658,7 +1661,7 @@ MonoBehaviour:
         xPosition: 4787.8276
         yPosition: 733.2775
         entryPointName: Roof
-    - rid: 2002241499796603015
+    - rid: 2002241533054026509
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 86998
@@ -1679,10 +1682,10 @@ MonoBehaviour:
         xPosition: 4966.3276
         yPosition: 884.52747
         items:
-        - rid: 2002241499796603074
+        - rid: 2002241533054026571
         characterName: Player
         icon: 
-    - rid: 2002241499796603016
+    - rid: 2002241533054026510
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 87006
@@ -1729,7 +1732,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603017
+    - rid: 2002241533054026511
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 89394
@@ -1750,10 +1753,10 @@ MonoBehaviour:
         xPosition: 5665.0776
         yPosition: 949.52747
         items:
-        - rid: 2002241499796603075
+        - rid: 2002241533054026572
         characterName: "\u3044\u3058\u3081\u3063\u5B50"
         icon: 
-    - rid: 2002241499796603018
+    - rid: 2002241533054026512
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 89417
@@ -1774,10 +1777,10 @@ MonoBehaviour:
         xPosition: 5996.327
         yPosition: 1087.0275
         items:
-        - rid: 2002241499796603076
+        - rid: 2002241533054026573
         characterName: Player
         icon: 
-    - rid: 2002241499796603019
+    - rid: 2002241533054026513
       type: {class: OptionNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 89425
@@ -1792,10 +1795,6 @@ MonoBehaviour:
           attachedIds: 
           ownerId: 89425
           connectionType: 7
-        - id: 89429
-          attachedIds: 
-          ownerId: 89425
-          connectionType: 7
         - id: 89431
           attachedIds: 
           ownerId: 89425
@@ -1805,23 +1804,18 @@ MonoBehaviour:
           attachedIds: fc690100
           ownerId: 89425
           connectionType: 1
-        - id: 89430
-          attachedIds: 88670100
-          ownerId: 89425
-          connectionType: 1
         - id: 89432
           attachedIds: 17740100
           ownerId: 89425
           connectionType: 1
         width: 228
-        height: 174
+        height: 152
         xPosition: 6705.9272
         yPosition: 1050.4275
         items:
-        - rid: 2002241499796603077
-        - rid: 2002241499796603078
-        - rid: 2002241499796603079
-    - rid: 2002241499796603020
+        - rid: 2002241533054026574
+        - rid: 2002241533054026575
+    - rid: 2002241533054026514
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 91627
@@ -1868,7 +1862,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603021
+    - rid: 2002241533054026515
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 92039
@@ -1915,7 +1909,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603022
+    - rid: 2002241533054026516
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 92610
@@ -1936,10 +1930,10 @@ MonoBehaviour:
         xPosition: 7214.42
         yPosition: 858.7716
         items:
-        - rid: 2002241499796603080
+        - rid: 2002241533054026576
         characterName: Player
         icon: 
-    - rid: 2002241499796603023
+    - rid: 2002241533054026517
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 92618
@@ -1960,10 +1954,10 @@ MonoBehaviour:
         xPosition: 7974.6196
         yPosition: 863.22156
         items:
-        - rid: 2002241499796603081
+        - rid: 2002241533054026577
         characterName: "\u3044\u3058\u3081\u3063\u5B50"
         icon: 
-    - rid: 2002241499796603024
+    - rid: 2002241533054026518
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 92667
@@ -2010,7 +2004,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603025
+    - rid: 2002241533054026519
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 92989
@@ -2057,7 +2051,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603026
+    - rid: 2002241533054026520
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 93716
@@ -2104,7 +2098,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603027
+    - rid: 2002241533054026521
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 94077
@@ -2153,7 +2147,7 @@ MonoBehaviour:
         - "\u5BBF\u984C\u3092\u3064\u304B\u3080"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603028
+    - rid: 2002241533054026522
       type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 94400
@@ -2170,7 +2164,7 @@ MonoBehaviour:
         xPosition: 9590.226
         yPosition: 929.3182
         exitPointName: 
-    - rid: 2002241499796603029
+    - rid: 2002241533054026523
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 94435
@@ -2191,10 +2185,10 @@ MonoBehaviour:
         xPosition: 7417.2334
         yPosition: 1208.6453
         items:
-        - rid: 2002241499796603082
+        - rid: 2002241533054026578
         characterName: Player
         icon: 
-    - rid: 2002241499796603030
+    - rid: 2002241533054026524
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 94458
@@ -2215,10 +2209,10 @@ MonoBehaviour:
         xPosition: 7720.2334
         yPosition: 1183.6453
         items:
-        - rid: 2002241499796603083
+        - rid: 2002241533054026579
         characterName: "\u3044\u3058\u3081\u3063\u5B50"
         icon: 
-    - rid: 2002241499796603031
+    - rid: 2002241533054026525
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 94466
@@ -2239,10 +2233,10 @@ MonoBehaviour:
         xPosition: 8022.2334
         yPosition: 1212.6453
         items:
-        - rid: 2002241499796603084
+        - rid: 2002241533054026580
         characterName: "\u3044\u3058\u3081\u3063\u5B50"
         icon: 
-    - rid: 2002241499796603032
+    - rid: 2002241533054026526
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 94520
@@ -2289,7 +2283,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603033
+    - rid: 2002241533054026527
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 94787
@@ -2310,10 +2304,10 @@ MonoBehaviour:
         xPosition: 8676.26
         yPosition: 1218.8274
         items:
-        - rid: 2002241499796603085
+        - rid: 2002241533054026581
         characterName: Player
         icon: 
-    - rid: 2002241499796603034
+    - rid: 2002241533054026528
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 94859
@@ -2362,7 +2356,7 @@ MonoBehaviour:
         - "\u5148\u751F3\u3092\u63A2\u3059"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603035
+    - rid: 2002241533054026529
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 95254
@@ -2409,7 +2403,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603036
+    - rid: 2002241533054026530
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 95521
@@ -2430,10 +2424,10 @@ MonoBehaviour:
         xPosition: 7350.4707
         yPosition: 1557.312
         items:
-        - rid: 2002241499796603086
+        - rid: 2002241533054026582
         characterName: Player
         icon: 
-    - rid: 2002241499796603037
+    - rid: 2002241533054026531
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 95558
@@ -2454,10 +2448,10 @@ MonoBehaviour:
         xPosition: 7754.2207
         yPosition: 1561.062
         items:
-        - rid: 2002241499796603087
+        - rid: 2002241533054026583
         characterName: "\u3044\u3058\u3081\u3063\u5B50"
         icon: 
-    - rid: 2002241499796603038
+    - rid: 2002241533054026532
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 95580
@@ -2478,10 +2472,10 @@ MonoBehaviour:
         xPosition: 8095.4707
         yPosition: 1579.812
         items:
-        - rid: 2002241499796603088
+        - rid: 2002241533054026584
         characterName: "\u3044\u3058\u3081\u3063\u5B50"
         icon: 
-    - rid: 2002241499796603039
+    - rid: 2002241533054026533
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 95659
@@ -2528,7 +2522,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603040
+    - rid: 2002241533054026534
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 95911
@@ -2549,10 +2543,10 @@ MonoBehaviour:
         xPosition: 9125.631
         yPosition: 1614.4327
         items:
-        - rid: 2002241499796603089
+        - rid: 2002241533054026585
         characterName: Player
         icon: 
-    - rid: 2002241499796603041
+    - rid: 2002241533054026535
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 134747
@@ -2599,7 +2593,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603042
+    - rid: 2002241533054026536
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 135165
@@ -2646,7 +2640,7 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603043
+    - rid: 2002241533054026537
       type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 157592
@@ -2663,7 +2657,7 @@ MonoBehaviour:
         xPosition: 7144.951
         yPosition: -355.8115
         entryPointName: Homework
-    - rid: 2002241499796603044
+    - rid: 2002241533054026538
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 157594
@@ -2684,10 +2678,10 @@ MonoBehaviour:
         xPosition: 7387.77
         yPosition: -305.4293
         items:
-        - rid: 2002241499796603090
+        - rid: 2002241533054026586
         characterName: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B01"
         icon: 
-    - rid: 2002241499796603045
+    - rid: 2002241533054026539
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 157615
@@ -2728,13 +2722,13 @@ MonoBehaviour:
         xPosition: 7775.982
         yPosition: -286.17828
         triggeredClassName: Controller
-        triggeredMethodName: Reset
-        methodSignature: Reset()
+        triggeredMethodName: ResetGame
+        methodSignature: ResetGame()
         parameterTypes: []
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603046
+    - rid: 2002241533054026540
       type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 157923
@@ -2751,7 +2745,7 @@ MonoBehaviour:
         xPosition: 8160.9824
         yPosition: -298.67828
         exitPointName: 
-    - rid: 2002241499796603047
+    - rid: 2002241533054026541
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 242151
@@ -2800,7 +2794,7 @@ MonoBehaviour:
         - false
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603048
+    - rid: 2002241533054026542
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 242718
@@ -2849,7 +2843,7 @@ MonoBehaviour:
         - true
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603049
+    - rid: 2002241533054026543
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 251685
@@ -2898,7 +2892,7 @@ MonoBehaviour:
         - "\u56F3\u66F8\u5BA4\u306E\u96A0\u3057\u90E8\u5C4B"
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603050
+    - rid: 2002241533054026544
       type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 272687
@@ -2915,7 +2909,7 @@ MonoBehaviour:
         xPosition: 1766.1316
         yPosition: 1291.8785
         entryPointName: SecretEnd
-    - rid: 2002241499796603051
+    - rid: 2002241533054026545
       type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 272689
@@ -2936,10 +2930,10 @@ MonoBehaviour:
         xPosition: 1999.8728
         yPosition: 1342.027
         items:
-        - rid: 2002241499796603091
+        - rid: 2002241533054026587
         characterName: "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B02"
         icon: 
-    - rid: 2002241499796603052
+    - rid: 2002241533054026546
       type: {class: TriggerScriptNode, ns: EasyTalk.Nodes.Logic, asm: games.okitoki.EasyTalk}
       data:
         nodeId: 272760
@@ -2986,250 +2980,311 @@ MonoBehaviour:
         parameterValues: []
         triggerType: 1
         objectTagOrName: 
-    - rid: 2002241499796603053
+    - rid: 2002241533054026547
+      type: {class: EntryNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        nodeId: 286921
+        name: ENTRY
+        nodeType: 1
+        inputs: []
+        outputs:
+        - id: 286922
+          attachedIds: cc600400
+          ownerId: 286921
+          connectionType: 1
+        width: 110
+        height: 75
+        xPosition: 263.82196
+        yPosition: 1090.7065
+        entryPointName: Not Yet
+    - rid: 2002241533054026548
+      type: {class: ConversationNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        nodeId: 286923
+        name: CONVERSATION
+        nodeType: 3
+        inputs:
+        - id: 286924
+          attachedIds: ca600400
+          ownerId: 286923
+          connectionType: 1
+        outputs:
+        - id: 286925
+          attachedIds: d4600400
+          ownerId: 286923
+          connectionType: 1
+        width: 268
+        height: 140
+        xPosition: 482.20068
+        yPosition: 1043.6116
+        items:
+        - rid: 2002241533054026588
+        characterName: 
+        icon: 
+    - rid: 2002241533054026549
+      type: {class: ExitNode, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        nodeId: 286931
+        name: EXIT
+        nodeType: 2
+        inputs:
+        - id: 286932
+          attachedIds: cd600400
+          ownerId: 286931
+          connectionType: 1
+        outputs: []
+        width: 110
+        height: 75
+        xPosition: 836.23413
+        yPosition: 1089.2006
+        exitPointName: 
+    - rid: 2002241533054026550
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u306F\u3044\u3001\u307F\u306A\u3055\u3093\u3001\u5BBF\u984C\u3092\u51FA\u3057\u3066\u304F\u3060\u3055\u3044\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603054
+    - rid: 2002241533054026551
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u5148\u751F\u3001\u3059\u307F\u307E\u305B\u3093\uFF01\u5BBF\u984C\u304C\u306A\u3044\u3093\u3067\u3059\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603055
+    - rid: 2002241533054026552
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u306A\u3044\uFF1F\u56F0\u308A\u307E\u3057\u305F\u306D\u3047\u3002\u4ECA\u65E5\u4E2D\u306B\u898B\u3064\u3051\u3066\u304D\u306A\u3055\u3044\u3002\u898B\u3064\u3051\u3089\u308C\u306A\u3051\u308C\u3070\u3001\u5927\u5909\u306A\u3053\u3068\u306B\u306A\u308A\u307E\u3059\u3088\u3002"
+        text: "\u306A\u3044\uFF1F\u56F0(\u3053\u307E)\u308A\u307E\u3057\u305F\u306D\u3047\u3002\u4ECA\u65E5\u4E2D\u306B\u898B\u3064\u3051\u3066\u304D\u306A\u3055\u3044\u3002\u898B\u3064\u3051\u3089\u308C\u306A\u3051\u308C\u3070\u3001\u5927\u5909\u306A\u3053\u3068\u306B\u306A\u308A\u307E\u3059\u3088\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603056
+    - rid: 2002241533054026553
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u3048\u3048\uFF01\uFF1F\u4ECA\u65E5\u4E2D\uFF1F\u5927\u5909\u306A\u3053\u3068\u3063\u3066\u2026\uFF1F"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603057
+    - rid: 2002241533054026554
       type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u53CB\u9054\u306B\u805E\u304F"
-    - rid: 2002241499796603058
+    - rid: 2002241533054026555
       type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u4ED6\u306E\u5B66\u751F\u306B\u805E\u304F"
-    - rid: 2002241499796603059
+    - rid: 2002241533054026556
       type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u5148\u751F\u306E\u7814\u7A76\u5BA4\u3092\u63A2\u3059\r\n"
-    - rid: 2002241499796603060
+    - rid: 2002241533054026557
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u3069\u3046\u3057\u3088\u3046\u2026\u3002\u3069\u3053\u306B\u3042\u308B\u3093\u3060\u308D\u3046\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603061
+    - rid: 2002241533054026558
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u30B8\u30E3\u30F3\u3055\u3093\uFF01\u5BBF\u984C\u3092\u5FD8\u308C\u3066\u3057\u307E\u3063\u305F\u3093\u3060\u3051\u3069\u3002\u77E5\u3089\u306A\u3044\uFF1F"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603062
+    - rid: 2002241533054026559
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: " \u53F8\u66F8\uFF1F\u3042\u308A\u304C\u3068\u3046\uFF01\u56F3\u66F8\u9928\u306B\u884C\u3063\u3066\u307F\u308B"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603063
+    - rid: 2002241533054026560
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u3048\uFF1F\u5BBF\u984C\uFF1F\u5927\u5909\u3060\u306D\uFF01\u6628\u65E5\u3001\u56F3\u66F8\u9928\u3067\u53F8\u66F8\u304C\u5909\u306A\u3082\u306E\u3092\u62FE\u3063"
+        text: "\u3048\uFF1F\u5BBF\u984C\uFF1F\u5927\u5909\u3060\u306D\uFF01\u6628\u65E5\u3001\u56F3\u66F8\u9928\u3067\u53F8\u66F8(\u3057\u3057\u3087)\u304C\u5909\u306A\u3082\u306E\u3092\u62FE\u3063"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603064
+    - rid: 2002241533054026561
       type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u56F3\u66F8\u9928"
-    - rid: 2002241499796603065
+    - rid: 2002241533054026562
       type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u6559\u5BA4"
-    - rid: 2002241499796603066
+    - rid: 2002241533054026563
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u5148\u751F2\u3001\u3059\u307F\u307E\u305B\u3093\u3002\u5BBF\u984C\u306F\u3069\u3053\u304B\u77E5\u3063\u3066\u3044\u307E\u3059\u304B\uFF1F"
+        text: "\u53F8\u66F8\u3001\u3059\u307F\u307E\u305B\u3093\u3002\u5BBF\u984C\u306F\u3069\u3053\u304B\u77E5\u3063\u3066\u3044\u307E\u3059\u304B\uFF1F"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603067
+    - rid: 2002241533054026564
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u5BBF\u984C\uFF1F\u3042\u3042\u3001\u3042\u308C\uFF1F\u79C1\u306F\u77E5\u3089\u306A\u3044\u3088\u3002\u3067\u3082\u3001\u3053\u306E\u672C\u306B\u306F\u9762\u767D\u3044\u8A71\u304C\u66F8\u3044\u3066\u3042\u308B\u2026\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603068
+    - rid: 2002241533054026565
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: " (\u5FC3\u306E\u58F0) \u6642\u8A08\u306E\u5F8C\u308D\uFF1F\u5909\u306A\u5148\u751F\u2026\u3002\u3067\u3082\u3001\u307E\u3060\u30D2\u30F3\u30C8\u3060\uFF01"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603069
+    - rid: 2002241533054026566
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: " \u3053\u308C\u3001\u50D5\u306E\u5BBF\u984C\u3060\uFF01\u3067\u3082\u3001\u3053\u308C\u3060\u3051\u3058\u3083\u2026\u3002\u307E\u3060\u8DB3\u308A\u306A\u3044\uFF01"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603070
+    - rid: 2002241533054026567
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u898B\u3064\u3051\u305F\u3088\u3046\u3067\u3059\u306D\u3002\u3057\u304B\u3057\u3001\u307E\u3060\u7D42\u308F\u308A\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3088\u3002\r\n"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603071
+    - rid: 2002241533054026568
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u6642\u9593\u304C\u306A\u3044\uFF01\u6025\u304E\u306A\u3055\u3044\u2026\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603072
+    - rid: 2002241533054026569
       type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u30EA\u30C8\u30E9\u30A4"
-    - rid: 2002241499796603073
+    - rid: 2002241533054026570
       type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u30B2\u30FC\u30E0\u3092\u7D42\u4E86\u3059\u308B?"
-    - rid: 2002241499796603074
+        text: "\u30B2\u30FC\u30E0\u3092\u7D42\u4E86(\u3057\u3085\u3046\u308A\u3087\u3046)\u3059\u308B?"
+    - rid: 2002241533054026571
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u5148\u751F\u305F\u3061\u3001\u6016\uFF08\u3053\u308F\uFF09\u3059\u304E\u308B\u2026\u3002\u6B8B\uFF08\u306E\u3053\uFF09\u308A\u306E\u5BBF\u984C\u306F\u3069\u3053\u306B\uFF1F\r\n"
+        text: "\u5148\u751F\u305F\u3061\u3001\u6016(\u3053\u308F)\u3059\u304E\u308B\u2026\u3002\u6B8B(\u306E\u3053)\u308A\u306E\u5BBF\u984C\u306F\u3069\u3053\u306B\uFF1F\r\n"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603075
+    - rid: 2002241533054026572
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u3042\u306F\u306F\uFF01\u5BBF\u984C\u3001\u307E\u3060\u898B\u3064\u304B\u3089\u306A\u3044\u306E\u304B\uFF1F\u304B\u308F\u3044\u305D\u3046\u306B\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603076
+    - rid: 2002241533054026573
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u541B\u304C\u4F55\u304B\u3057\u305F\u306E\uFF1F\u6B63\u76F4\uFF08\u3057\u3087\u3046\u3058\u304D\uFF09\u306B\u8A00\u3063\u3066\uFF01"
+        text: "\u541B(\u304D\u307F)\u304C\u4F55\u304B\u3057\u305F\u306E\uFF1F\u6B63\u76F4(\u3057\u3087\u3046\u3058\u304D)\u306B\u8A00\u3063\u3066\uFF01"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603077
+    - rid: 2002241533054026574
       type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u6012\u9CF4\uFF08\u3069\u306A\uFF09\u308B"
-    - rid: 2002241499796603078
+        text: "\u6012\u9CF4(\u3069\u306A)\u308B"
+    - rid: 2002241533054026575
       type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u51B7\u9759\uFF08\u308C\u3044\u305B\u3044\uFF09\u306B\u8A71\u3059"
-    - rid: 2002241499796603079
-      type: {class: OptionItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
-      data:
-        text: "\u61C7\u9858\uFF08\u3053\u3093\u304C\u3093\uFF09\u3059\u308B"
-    - rid: 2002241499796603080
+        text: "\u61C7\u9858(\u3053\u3093\u304C\u3093)\u3059\u308B"
+    - rid: 2002241533054026576
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u904A\u3093\u3067\u3044\u306A\u3044\u3093\u3060\u3088\uFF01\u4ECA\u3059\u3050\u50D5\u306E\u5BBF\u984C\u3092\u8FD4\u3057\u3066\uFF01"
+        text: "\u904A(\u3042\u305D)\u3093\u3067\u3044\u306A\u3044\u3093\u3060\u3088\uFF01\u4ECA\u3059\u3050\u50D5(\u307C\u304F)\u306E\u5BBF\u984C\u3092\u8FD4\u3057\u3066\uFF01"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603081
+    - rid: 2002241533054026577
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u3072\u3063\uFF01\u308F\u3001\u60AA\u3044\u306A\uFF01\u5B9F\u306F\u3001\u5BBF\u984C\u306F\u2026\uFF01"
+        text: "\u3072\u3063\uFF01\u308F\u3001\u60AA\u3044\u306A\uFF01\u5B9F(\u3058\u3064)\u306F\u3001\u5BBF\u984C\u306F\u2026\uFF01"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603082
+    - rid: 2002241533054026578
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: " \u304A\u9858\u3044\u3060\u3001\u672C\u5F53\u306E\u3053\u3068\u3092\u6559\u3048\u3066\u304F\u308C\u308B\u3002\u50D5\u306E\u5BBF\u984C\u306F\u3069\u3053\uFF1F"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603083
+    - rid: 2002241533054026579
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u3046\u30FC\u3093\u2026\u3002\u5B9F\u306F\u3001\u98A8\u3067\u98DB\u3093\u3067\u3044\u3063\u305F\u306E\u3092\u3001\u5148\u751F3\u304C\u62FE\u3063\u3066\u3044\u305F\u306E\u3092\u898B\u305F\u3093\u3060\u2026\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603084
+    - rid: 2002241533054026580
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u3067\u3082\u3001\u5148\u751F3\u306F\u3044\u3064\u3082\u672C\u3092\u8AAD\u3093\u3067\u308B\u304B\u3089\u3001\u3069\u3053\u306B\u7F6E\u3044\u305F\u304B\u5FD8\u308C\u3061\u3083\u3063\u305F\u307F\u305F\u3044\u3060\u3051\u3069\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603085
+    - rid: 2002241533054026581
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u5148\u751F3...!\u3042\u308A\u304C\u3068\u3046\uFF01"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603086
+    - rid: 2002241533054026582
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u304A\u9858\u3044\uFF01\u3069\u3046\u304B\u6559\u3048\u3066\uFF01\u5352\u696D\u3067\u304D\u306A\u304F\u306A\u3063\u3061\u3083\u3046\uFF01"
+        text: "\u304A\u9858(\u306D\u304C)\u3044\uFF01\u3069\u3046\u304B\u6559\u3048\u3066\uFF01\u5352\u696D\u3067\u304D\u306A\u304F\u306A\u3063\u3061\u3083\u3046\uFF01"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603087
+    - rid: 2002241533054026583
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: " \u3046\u30FC\u3093\u2026\u3002\u672C\u5F53\u306F\u8A00\u3044\u305F\u304F\u306A\u304B\u3063\u305F\u3093\u3060\u3051\u3069\u3001"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603088
+    - rid: 2002241533054026584
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u5BBF\u984C\u306E\u4E00\u90E8\u306F\u3001\u56F3\u66F8\u5BA4\u306E\u5965\u306E\u96A0\u3057\u90E8\u5C4B\u306B\u3042\u3063\u305F\u306E\u3092\u898B\u305F\u3053\u3068\u304C\u3042\u308B\u3088\u3002"
+        text: "\u5BBF\u984C\u306E\u4E00\u90E8\u306F\u3001\u56F3\u66F8\u5BA4\u306E\u5965(\u304A\u304F)\u306E\u96A0(\u304B\u304F)\u3057\u90E8\u5C4B\u306B\u3042\u3063\u305F\u306E\u3092\u898B\u305F\u3053\u3068\u304C\u3042\u308B\u3088\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603089
+    - rid: 2002241533054026585
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: " \u56F3\u66F8\u5BA4\u306E\u96A0\u3057\u90E8\u5C4B\uFF01\u3042\u308A\u304C\u3068\u3046\uFF01"
+        text: " \u56F3\u66F8\u5BA4\u306E\u96A0(\u304B\u304F)\u3057\u90E8\u5C4B\uFF01\u3042\u308A\u304C\u3068\u3046\uFF01"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603090
+    - rid: 2002241533054026586
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
         text: "\u3075\u3080\u2026\u3002\u3088\u304F\u3067\u304D\u307E\u3057\u305F\u306D\u3002"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
-    - rid: 2002241499796603091
+    - rid: 2002241533054026587
       type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
       data:
-        text: "\u3054\u3081\u3093\u3001\u5618\u3092\u3064\u3044\u305F\u3002\u3082\u3046\u6B7B\u306A\u306A\u304D\u3083"
+        text: "\u3054\u3081\u3093\u3001\u5618(\u3046\u305D)\u3092\u3064\u3044\u305F\u3002\u3082\u3046\u6B7B\u306A\u306A\u304D\u3083"
         audioClip: {fileID: 0}
         audioClipFile: 
         audioAssetID: 0
---- !u!114 &132487082592909513
+    - rid: 2002241533054026588
+      type: {class: ConversationItem, ns: EasyTalk.Nodes.Common, asm: games.okitoki.EasyTalk}
+      data:
+        text: "\u307E\u3060\u3053\u3053\u3067\u3084\u308B\u3079\u304D\u3053\u3068\u304C\u3042\u308B"
+        audioClip: {fileID: 0}
+        audioClipFile: 
+        audioAssetID: 0
+--- !u!114 &5556406238757843213
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3243,7 +3298,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: games.okitoki.EasyTalk::EasyTalk.Localization.TranslationLibrary
   originalLanguage: ja
   translationSets:
-  - counter: 52
+  - counter: 67
     languageCode: ja
     translations:
     - id: 0
@@ -3402,7 +3457,52 @@ MonoBehaviour:
     - id: 51
       language: ja
       text: "\u3054\u3081\u3093\u3001\u5618\u3092\u3064\u3044\u305F\u3002\u3082\u3046\u6B7B\u306A\u306A\u304D\u3083"
-  - counter: 52
+    - id: 52
+      language: ja
+      text: "\u307E\u3060\u3053\u3053\u3067\u3084\u308B\u3079\u304D\u3053\u3068\u304C\u3042\u308B"
+    - id: 53
+      language: ja
+      text: "\u306A\u3044\uFF1F\u56F0(\u3053\u307E)\u308A\u307E\u3057\u305F\u306D\u3047\u3002\u4ECA\u65E5\u4E2D\u306B\u898B\u3064\u3051\u3066\u304D\u306A\u3055\u3044\u3002\u898B\u3064\u3051\u3089\u308C\u306A\u3051\u308C\u3070\u3001\u5927\u5909\u306A\u3053\u3068\u306B\u306A\u308A\u307E\u3059\u3088\u3002"
+    - id: 54
+      language: ja
+      text: "\u3048\uFF1F\u5BBF\u984C\uFF1F\u5927\u5909\u3060\u306D\uFF01\u6628\u65E5\u3001\u56F3\u66F8\u9928\u3067\u53F8\u66F8(\u3057\u3057\u3087)\u304C\u5909\u306A\u3082\u306E\u3092\u62FE\u3063"
+    - id: 55
+      language: ja
+      text: "\u53F8\u66F8\u3001\u3059\u307F\u307E\u305B\u3093\u3002\u5BBF\u984C\u306F\u3069\u3053\u304B\u77E5\u3063\u3066\u3044\u307E\u3059\u304B\uFF1F"
+    - id: 56
+      language: ja
+      text: "\u30B2\u30FC\u30E0\u3092\u7D42\u4E86(\u3057\u3085\u3046\u308A\u3087\u3046)\u3059\u308B?"
+    - id: 57
+      language: ja
+      text: "\u5148\u751F\u305F\u3061\u3001\u6016(\u3053\u308F)\u3059\u304E\u308B\u2026\u3002\u6B8B(\u306E\u3053)\u308A\u306E\u5BBF\u984C\u306F\u3069\u3053\u306B\uFF1F\r\n"
+    - id: 58
+      language: ja
+      text: "\u541B(\u304D\u307F)\u304C\u4F55\u304B\u3057\u305F\u306E\uFF1F\u6B63\u76F4(\u3057\u3087\u3046\u3058\u304D)\u306B\u8A00\u3063\u3066\uFF01"
+    - id: 59
+      language: ja
+      text: "\u6012\u9CF4(\u3069\u306A)\u308B"
+    - id: 60
+      language: ja
+      text: "\u61C7\u9858(\u3053\u3093\u304C\u3093)\u3059\u308B"
+    - id: 61
+      language: ja
+      text: "\u904A(\u3042\u305D)\u3093\u3067\u3044\u306A\u3044\u3093\u3060\u3088\uFF01\u4ECA\u3059\u3050\u50D5(\u307C\u304F)\u306E\u5BBF\u984C\u3092\u8FD4\u3057\u3066\uFF01"
+    - id: 62
+      language: ja
+      text: "\u3072\u3063\uFF01\u308F\u3001\u60AA\u3044\u306A\uFF01\u5B9F(\u3058\u3064)\u306F\u3001\u5BBF\u984C\u306F\u2026\uFF01"
+    - id: 63
+      language: ja
+      text: "\u304A\u9858(\u306D\u304C)\u3044\uFF01\u3069\u3046\u304B\u6559\u3048\u3066\uFF01\u5352\u696D\u3067\u304D\u306A\u304F\u306A\u3063\u3061\u3083\u3046\uFF01"
+    - id: 64
+      language: ja
+      text: "\u5BBF\u984C\u306E\u4E00\u90E8\u306F\u3001\u56F3\u66F8\u5BA4\u306E\u5965(\u304A\u304F)\u306E\u96A0(\u304B\u304F)\u3057\u90E8\u5C4B\u306B\u3042\u3063\u305F\u306E\u3092\u898B\u305F\u3053\u3068\u304C\u3042\u308B\u3088\u3002"
+    - id: 65
+      language: ja
+      text: " \u56F3\u66F8\u5BA4\u306E\u96A0(\u304B\u304F)\u3057\u90E8\u5C4B\uFF01\u3042\u308A\u304C\u3068\u3046\uFF01"
+    - id: 66
+      language: ja
+      text: "\u3054\u3081\u3093\u3001\u5618(\u3046\u305D)\u3092\u3064\u3044\u305F\u3002\u3082\u3046\u6B7B\u306A\u306A\u304D\u3083"
+  - counter: 67
     languageCode: en
     translations:
     - id: 0
@@ -3559,5 +3659,50 @@ MonoBehaviour:
       language: en
       text: 
     - id: 51
+      language: en
+      text: 
+    - id: 52
+      language: en
+      text: 
+    - id: 53
+      language: en
+      text: 
+    - id: 54
+      language: en
+      text: 
+    - id: 55
+      language: en
+      text: 
+    - id: 56
+      language: en
+      text: 
+    - id: 57
+      language: en
+      text: 
+    - id: 58
+      language: en
+      text: 
+    - id: 59
+      language: en
+      text: 
+    - id: 60
+      language: en
+      text: 
+    - id: 61
+      language: en
+      text: 
+    - id: 62
+      language: en
+      text: 
+    - id: 63
+      language: en
+      text: 
+    - id: 64
+      language: en
+      text: 
+    - id: 65
+      language: en
+      text: 
+    - id: 66
       language: en
       text: 
